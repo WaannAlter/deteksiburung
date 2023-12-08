@@ -1,3 +1,5 @@
+download yolov5 from github and insert and replace the content with this code
+pip:
 pip install opencv-python
 pip install torch
 pip install playsound
